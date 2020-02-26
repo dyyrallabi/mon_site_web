@@ -1,3 +1,4 @@
 tmp/td.txt
 tmp/*
-*.xml
+tmp/*.txt
+
